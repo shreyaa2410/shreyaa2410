@@ -31,3 +31,6 @@ I specialize in both Backend and Frontend, with a strong foundation in data stru
 - 🛠️ Postman 
 
 </details>
+
+🤝 Let's Connect
+📩 Email: shreyaa2410@gmail.com

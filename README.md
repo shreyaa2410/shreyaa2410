@@ -18,14 +18,14 @@ I specialize in both Backend and Frontend, with a strong foundation in data stru
 <summary>Backend</summary>
 
 - ⚡ Java, Spring Boot  
-- ⚡ PHP, WordPress  
+- ⚡ PHP, WordPress Themes 
 - ⚡ SQL, Database Management  
 - ⚡ REST API Development  
 
 </details>
 
 <details>
-<summary>Tools & DevOps</summary>
+<summary>Tools</summary>
 
 - 🛠️ GitHub
 - 🛠️ Postman 

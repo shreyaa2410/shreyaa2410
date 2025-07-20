@@ -29,6 +29,7 @@ I specialize in both Backend and Frontend, with a strong foundation in data stru
 
 - 🛠️ GitHub
 - 🛠️ Postman 
+- 🛠️ Docker 
 
 </details>
 

@@ -1,37 +1,20 @@
-## Hi there 👋
-
-
-
-🚀 About Me
-
+# 💫 About Me:
 I'm Shreya Ghosh, a full-stack developer with 2 years of experience at an early-stage startup. 
-I specialize in both Backend and Frontend, with a strong foundation in data structures and algorithms for problem-solving. 
-<details open>
-<summary>Frontend</summary>
+I specialize in both Backend and Frontend, with a strong foundation in data structures and algorithms for problem-solving. <br>
 
-- ⚡ HTML, CSS, Sass, Bootstrap, Tailwind
-- ⚡ JavaScript, React.js 
 
-</details>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-ghosh-6a4446197/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaa2410@gmail.com) 
 
-<details>
-<summary>Backend</summary>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shreyaa2410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shreyaa2410&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaa2410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡ Java, Spring Boot  
-- ⚡ PHP, WordPress Themes 
-- ⚡ SQL, Database Management  
-- ⚡ REST API Development  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyaa2410&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</details>
-
-<details>
-<summary>Tools</summary>
-
-- 🛠️ GitHub
-- 🛠️ Postman 
-- 🛠️ Docker 
-
-</details>
-
-🤝 Let's Connect
-📩 Email: shreyaa2410@gmail.com
+---
+[![](https://visitcount.itsvg.in/api?id=shreyaa2410&icon=1&color=0)](https://visitcount.itsvg.in)
